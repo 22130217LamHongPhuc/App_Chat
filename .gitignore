@@ -154,3 +154,8 @@ crashlytics-build.properties
 
 lib/firebase_options.dart
 **/firebase_options.json
+
+
+
+web/firebase-messaging-sw.js
+**/firebase-messaging-sw.js
